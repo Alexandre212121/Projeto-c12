@@ -4,7 +4,7 @@ var i;
 
 function preload(){
   pathImg = loadImage ("path.png") 
-  boyImg = loadAnimation ("jake1.png", "jake2.png")
+  boyImg = loadAnimation ("Jake1.png", "Jake2.png")
  
 }
 
